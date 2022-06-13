@@ -1,0 +1,10 @@
+Большие файлы не гит не запиваются, поэтому для запуска нужно скачать датасет по ссылке:
+https://www.kaggle.com/datasets/mrdaniilak/russia-real-estate-20182021/code?resource=download&select=all_v2.csv
+
+1) назвать его all_v2.csv
+2) положить в папку проекта 
+
+Чтобы установить все нужные библиотеки нужно запустить команду:
+pip install requirements.txt
+Или 
+pip3 install requirements.txt
